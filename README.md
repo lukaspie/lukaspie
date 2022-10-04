@@ -1,4 +1,5 @@
 <h2> Hi, I'm Lukas! 👋</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>PhD student at <a href="https://cec.mpg.de/">Max Planck Institute of Chemical Energy Conversion :man_scientist:</a></br>MSc, BSc in Physics at <a href="https://www.ruhr-uni-bochum.de">Ruhr-Universität Bochum &#127891</a> 
 </em></p>
 
