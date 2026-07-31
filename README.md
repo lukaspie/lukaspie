@@ -1,5 +1,5 @@
 <h2> Hi, I'm Lukas! 👋</h2>
-<p>Currently, I am a Team Lead in the <a href="https://www.fairmat-nfdi.eu/fairmat/">FAIRmat</a> project and a Postdoc at <a href="https://cec.mpg.de/">Max Planck Institute of Chemical Energy Conversion</a> :man_technologist:</p>
+<p>Currently, I am the coordinator for experiments in the <a href="https://www.fairmat-nfdi.eu/fairmat/">FAIRmat</a> project and a Postdoc at <a href="https://cec.mpg.de/">Max Planck Institute of Chemical Energy Conversion</a> :man_technologist:</p>
 
 <p><em>PhD in Chemistry at <a href="https://cec.mpg.de/">MPI-CEC 🧪</a></br>MSc, BSc in Physics at <a href="https://www.ruhr-uni-bochum.de">Ruhr-Universität Bochum &#127891</a> 
 </em></p>
